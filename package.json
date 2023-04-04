@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "resume-cli": "^3.0.8"
+  },
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "resume Lars Eschweiler",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "resume export jsonresume-theme-markdown.pdf --theme jsonresume-theme-markdown --format pdf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreezy/resume.git"
+  },
+  "author": "Lars Eschweiler",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vreezy/resume/issues"
+  },
+  "homepage": "https://github.com/vreezy/resume#readme"
+}
