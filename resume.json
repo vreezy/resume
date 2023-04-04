@@ -1,0 +1,256 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Lars Eschweiler",
+    "label": "Entwickler",
+    "image": "",
+    "email": "lars.eschweiler@outlook.com",
+    "phone": "",
+    "url": "https://vreezy.de",
+    "summary": "",
+    "location": {
+      "address": "Buchenweg 16",
+      "postalCode": "52428",
+      "city": "Merzenich",
+      "countryCode": "DE",
+      "region": "NRW"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "Lars Eschweiler",
+        "url": "https://www.linkedin.com/in/lars-eschweiler"
+      },
+      {
+        "network": "Github",
+        "username": "vreezy",
+        "url": "https://github.com/vreezy"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "novaCapta GmbH",
+      "location": "Köln",
+      "description": "Microsoft 365 und Azure Beratung und Umsetzung",
+      "position": "IT-Konsultant",
+      "url": "https://novacapta.de",
+      "startDate": "2019-08-01",
+      "summary": "",
+      "highlights": [
+        "Technologien: JavaScript, TypeScript, jQuery, HandlebarsJS, ReactJS, AngularJS, Angular2+, Bootstrap, Fluent UI, SharePoint Rest-API, Microsoft Graph-API, Azure LogicApp, Azure Functions, Azure Storage, CosmosDB",
+        "SPFX und Teams Apps für SharePoint 2013 bis Online z.B.: Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung, Formulare",
+        "Entwicklung in Power Apps und Automate z.B. Ticketsystem, Audit",
+        "Entwicklung in Nintex Forms und Workflow z.B. Genehmigungsprozesse",
+        "Migration Von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online"
+      ]
+    },
+    {
+      "name": "GFN AG",
+      "url": "https://www.gfn.de/",
+      "description": "Weiterbildung",
+      "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
+      "startDate": "2017-06-01",
+      "endDate": "2019-07-01",
+      "location": "Köln",
+      "summary": "",
+      "highlights": [
+        "Praktikum neun Monate bei novaCapta GmbH"
+      ]
+    },
+    {
+      "name": "goalcampus GmbH",
+      "location": "Köln",
+      "description": "Praktikant PHP Entwicklung",
+      "position": "Praktikant",
+      "startDate": "2017-04-01",
+      "endDate": "2017-05-31",
+      "summary": "",
+      "url": "https://www.goalcampus.de",
+      "highlights": [
+        "Entwicklung Laravel"
+      ]
+    },
+    {
+      "name": "Lucas-Nülle GmbH",
+      "location": "Sindorf",
+      "description": "Trainingssysteme",
+      "position": "Monteur",
+      "summary": "Montage von Lehr- und Messgeräten",
+      "startDate": "2009-01-01",
+      "endDate": "2017-03-31",
+      "url": "https://www.lucas-nuelle.de/",
+      "highlights": [
+        "Stellvertretender Abteilungsleiter von mehreren Personen",
+        "Einarbeitung von Personaldienstleistern",
+        "Arbeiten nach ISO 9001-2008",
+        "Montage von elektronischen, mechanischen und pneumatischen Komponenten nach Unterlagen"
+      ]
+    },
+    {
+      "name": "Zeitarbeit",
+      "description": "Personalvermittlung",
+      "location": "Düren/Aachen/Köln/Bonn",
+      "position": "Personaldienstleister als Elektroniker",
+      "summary": "Für dieverse Dienstleister gearbeitet. Unter anderem: Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
+      "startDate": "2004-01-01",
+      "endDate": "2008-12-31",
+      "highlights": [
+        "Betriebselektriker",
+        "Montage von Gasturbinen",
+        "Montage von CD/DVD Gussmaschienen",
+        "Qualitätskontrolle Papierproduktion"
+      ]
+    },
+    {
+      "name": "Altenheim St. Hildegard Jülich",
+      "position": "Zivieldienstleistender als Hausmeister",
+      "description": "Altenheim für Pflegebedüftige Menschen",
+      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen uns Essen auslieferung",
+      "location": "Jülich",
+      "startDate": "2003-03-01",
+      "endDate": "2003-12-31"
+    },
+    {
+      "name": "RWE Rheinbraun AG",
+      "location": "Weißweiler",
+      "position": "Auszubildener Energieelektroniker Betriebstechnik IHK",
+      "description": "",
+      "summary": "",
+      "url": "https://www.rwe.de",
+      "startDate": "1999-08-01",
+      "endDate": "2003-02-28",
+      "highlights": [
+        "Einsatz im Tagebau Hambach",
+        "Einsatz im Tagebau Inden",
+        "Einsatz bei EWV",
+        "Berufsschule Eschweiler"
+      ]      
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Erfindergeist Jülich e.V.",
+      "position": "Mitglied",
+      "url": "https://erfindergeist.org/",
+      "startDate": "2022",
+      "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich Bildung zum Ziel gesetzt hat",
+      "highlights": [
+        "Webseite Administrator"
+      ]
+    },
+    {
+      "organization": "illunet e.V.",
+      "position": "Mitglied",
+      "startDate": "2002",
+      "endDate": "2012",
+      "summary": "Mit Freude zwei mal im Jahr LAN-Partys im Raum Basweiler veranstaltet. Der Verein hat sich nach der großen LAN-Party Äre leider aufgelöst",
+      "highlights": [
+        "Erstellen der Webseite",
+        "Turnier-Organisator"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "GFN AG",
+      "url": "https://www.gfn.de/",
+      "area": "Weiterbildung",
+      "studyType": "Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
+      "startDate": "2017-06-01",
+      "endDate": "2019-07-01",
+      "courses": [
+        "PHP Einführung",
+        "Java SE 8 Programmer I",
+        "ITIL Foundation Certificate in IT Service Management",
+        "Microsoft Office 2016"
+      ]
+    },
+    {
+      "institution": "RWE Rheinbraun AG",
+      "url": "https://rwe.de",
+      "area": "Ausbildung",
+      "studyType": "Energieelektroniker Fachrichtung Betriebstechnik IHK",
+      "startDate": "1999-08-01",
+      "endDate": "2003-02-28",
+      "courses": [
+        "SPS S5 und S7"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
+      "date": "2023-02-24",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/9f2686b9-6604-4732-9850-072497b3caa3/public_url"
+    },
+    {
+      "name": "Microsoft Certified: Azure Developer Associate (AZ-204)",
+      "date": "2021-03-12",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/a2b12f99-4aab-492c-8485-f55bc1e791c6/public_url"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+      "date": "2020-08-21",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/ecd04688-7665-4110-8444-01797d55c41e/public_url"
+    },
+    {
+      "name": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
+      "date": "2019-07-23",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/6f88227f-f9d4-4e22-ba81-e4837752fd9b/public_url"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Angular",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "MYSQL",
+        "PHP 3-5 2003-2010",
+        "Pearl 1999-2003"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Deutsch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fortgeschritten"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Magic the Gathering",
+      "keywords": [
+        "Tradingcards",
+        "Game",
+        "Socialising"
+      ]
+    },
+    {
+      "name": "Mountainbike",
+      "keywords": [
+        "Bicycle",
+        "Outdoor"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2023-04-03T21:00:00"
+  }
+}
