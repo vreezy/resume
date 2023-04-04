@@ -31,12 +31,12 @@
   "work": [
     {
       "name": "novaCapta GmbH",
-      "location": "Köln",
       "description": "Microsoft 365 und Azure Beratung und Umsetzung",
-      "position": "IT-Konsultant",
+      "location": "Köln",
       "url": "https://novacapta.de",
+      "position": "IT-Berater",
+      "summary": "Einsatz beim Kunden, wärend Corona im Home-Office. Eher Entwickler tätigkeiten als Berater",
       "startDate": "2019-08-01",
-      "summary": "",
       "highlights": [
         "Technologien: JavaScript, TypeScript, jQuery, HandlebarsJS, ReactJS, AngularJS, Angular2+, Bootstrap, Fluent UI, SharePoint Rest-API, Microsoft Graph-API, Azure LogicApp, Azure Functions, Azure Storage, CosmosDB",
         "SPFX und Teams Apps für SharePoint 2013 bis Online z.B.: Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung, Formulare",
@@ -47,26 +47,27 @@
     },
     {
       "name": "GFN AG",
-      "url": "https://www.gfn.de/",
       "description": "Weiterbildung",
+      "url": "https://www.gfn.de/",
+      "location": "Köln",
       "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
+      "summary": "",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
-      "location": "Köln",
-      "summary": "",
       "highlights": [
-        "Praktikum neun Monate bei novaCapta GmbH"
+        "In der Zeit ein neun monatiges Praktikum bei der Firma novaCapta GmbH absolviert",
+        "Endlich PHP gelernt"
       ]
     },
     {
       "name": "goalcampus GmbH",
+      "description": "Software Entwicklung mit PHP und dem Framework Laravel",
+      "url": "https://www.goalcampus.de",
       "location": "Köln",
-      "description": "Praktikant PHP Entwicklung",
       "position": "Praktikant",
+      "summary": "Findung ob mir der Beruf Softwareentwickler liegt.",
       "startDate": "2017-04-01",
       "endDate": "2017-05-31",
-      "summary": "",
-      "url": "https://www.goalcampus.de",
       "highlights": [
         "Entwicklung Laravel"
       ]
@@ -76,7 +77,7 @@
       "location": "Sindorf",
       "description": "Trainingssysteme",
       "position": "Monteur",
-      "summary": "Montage von Lehr- und Messgeräten",
+      "summary": "Montage von Lehr- und Messgeräten an einem festen Arbeitsplatz",
       "startDate": "2009-01-01",
       "endDate": "2017-03-31",
       "url": "https://www.lucas-nuelle.de/",
@@ -104,20 +105,25 @@
     },
     {
       "name": "Altenheim St. Hildegard Jülich",
-      "position": "Zivieldienstleistender als Hausmeister",
       "description": "Altenheim für Pflegebedüftige Menschen",
-      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen uns Essen auslieferung",
+      "url": "https://caritas-dn.de",
       "location": "Jülich",
+      "position": "Zivieldienstleistender als Hausmeister",
+      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen uns Essen auslieferung",
       "startDate": "2003-03-01",
-      "endDate": "2003-12-31"
+      "endDate": "2003-12-31",
+      "highlights": [
+        "Rasenmähertraktor"
+      ]
     },
     {
       "name": "RWE Rheinbraun AG",
       "location": "Weißweiler",
-      "position": "Auszubildener Energieelektroniker Betriebstechnik IHK",
       "description": "",
-      "summary": "",
       "url": "https://www.rwe.de",
+
+      "position": "Auszubildener Energieelektroniker Betriebstechnik IHK",
+      "summary": "In einer Ausbildunsstätte mit ca. 20 Azubies zusammen Asubildung",
       "startDate": "1999-08-01",
       "endDate": "2003-02-28",
       "highlights": [
@@ -218,6 +224,17 @@
         "MYSQL",
         "PHP 3-5 2003-2010",
         "Pearl 1999-2003"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Fortgeschritten",
+      "keywords": [
+        "Azure Storage Account",
+        "Azure Cosmos DB",
+        "Azure Logic-App",
+        "Azure functions",
+        "Azure Devops"
       ]
     }
   ],
