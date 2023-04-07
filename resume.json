@@ -38,32 +38,32 @@
       "summary": "Einsatz beim Kunden, wärend Corona im Home-Office. Eher Entwickler tätigkeiten als Berater",
       "startDate": "2019-08-01",
       "highlights": [
-        "Technologien: JavaScript, TypeScript, jQuery, HandlebarsJS, ReactJS, AngularJS, Angular2+, Bootstrap, Fluent UI, SharePoint Rest-API, Microsoft Graph-API, Azure LogicApp, Azure Functions, Azure Storage, CosmosDB",
         "SPFX und Teams Apps für SharePoint 2013 bis Online z.B.: Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung, Formulare",
         "Entwicklung in Power Apps und Automate z.B. Ticketsystem, Audit",
         "Entwicklung in Nintex Forms und Workflow z.B. Genehmigungsprozesse",
-        "Migration Von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online"
+        "Migration Von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
+        "Aufbau von DevOps Build/Release Pipelines mit PowerShell"
       ]
     },
     {
       "name": "GFN AG",
       "description": "Weiterbildung",
-      "url": "https://www.gfn.de/",
       "location": "Köln",
+      "url": "https://www.gfn.de/",
       "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
       "summary": "",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "highlights": [
-        "In der Zeit ein neun monatiges Praktikum bei der Firma novaCapta GmbH absolviert",
+        "Neun monatiges Praktikum bei der Firma novaCapta GmbH",
         "Endlich PHP gelernt"
       ]
     },
     {
       "name": "goalcampus GmbH",
       "description": "Software Entwicklung mit PHP und dem Framework Laravel",
-      "url": "https://www.goalcampus.de",
       "location": "Köln",
+      "url": "https://www.goalcampus.de",
       "position": "Praktikant",
       "summary": "Findung ob mir der Beruf Softwareentwickler liegt.",
       "startDate": "2017-04-01",
@@ -74,13 +74,13 @@
     },
     {
       "name": "Lucas-Nülle GmbH",
+      "description": "Trainingssysteme für Elektronik/KFZ/Kältetechnik",
       "location": "Sindorf",
-      "description": "Trainingssysteme",
-      "position": "Monteur",
-      "summary": "Montage von Lehr- und Messgeräten an einem festen Arbeitsplatz",
-      "startDate": "2009-01-01",
-      "endDate": "2017-03-31",
       "url": "https://www.lucas-nuelle.de/",
+      "position": "Monteur",
+      "summary": "Montage von Lehr- und Messgeräten",
+      "startDate": "2009-01-01",
+      "endDate": "2017-03-31",      
       "highlights": [
         "Stellvertretender Abteilungsleiter von mehreren Personen",
         "Einarbeitung von Personaldienstleistern",
@@ -90,14 +90,14 @@
     },
     {
       "name": "Zeitarbeit",
-      "description": "Personalvermittlung",
+      "description": "Personalvermittlung im Handwerk",
       "location": "Düren/Aachen/Köln/Bonn",
       "position": "Personaldienstleister als Elektroniker",
-      "summary": "Für dieverse Dienstleister gearbeitet. Unter anderem: Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
+      "summary": "In der Zeit habe ich für diverse Dienstleister gearbeitet. Unter anderem: Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
       "startDate": "2004-01-01",
       "endDate": "2008-12-31",
       "highlights": [
-        "Betriebselektriker",
+        "Betriebselektroniker als Urlaubsvertretung",
         "Montage von Gasturbinen",
         "Montage von CD/DVD Gussmaschienen",
         "Qualitätskontrolle Papierproduktion"
@@ -106,30 +106,31 @@
     {
       "name": "Altenheim St. Hildegard Jülich",
       "description": "Altenheim für Pflegebedüftige Menschen",
-      "url": "https://caritas-dn.de",
       "location": "Jülich",
+      "url": "https://caritas-dn.de",      
       "position": "Zivieldienstleistender als Hausmeister",
-      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen uns Essen auslieferung",
+      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen und Essen auslieferung",
       "startDate": "2003-03-01",
       "endDate": "2003-12-31",
       "highlights": [
-        "Rasenmähertraktor"
+        "Rasenmähertraktor fahren",
+        "Nikotin deckende Farbe entdeckt",
+        "Im Fachhandel über 50% Rabatt ausgehandelt für Caritas"
       ]
     },
     {
       "name": "RWE Rheinbraun AG",
+      "description": "Große Ausbildungsstätte mit Kantine. Platz für über 140 Auszubildende",
       "location": "Weißweiler",
-      "description": "",
       "url": "https://www.rwe.de",
-
       "position": "Auszubildener Energieelektroniker Betriebstechnik IHK",
-      "summary": "In einer Ausbildunsstätte mit ca. 20 Azubies zusammen Asubildung",
+      "summary": "Zusammen mit ca. 20 anderen Ausbildung",
       "startDate": "1999-08-01",
       "endDate": "2003-02-28",
       "highlights": [
         "Einsatz im Tagebau Hambach",
         "Einsatz im Tagebau Inden",
-        "Einsatz bei EWV",
+        "Einsatz bei EWV (Stromversorger raum Eschweiler)",
         "Berufsschule Eschweiler"
       ]      
     }
@@ -166,7 +167,7 @@
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "courses": [
-        "PHP Einführung",
+        "PHP",
         "Java SE 8 Programmer I",
         "ITIL Foundation Certificate in IT Service Management",
         "Microsoft Office 2016"
@@ -212,36 +213,71 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Aktuelle Interressen",
+      "level": "Anfänger - Fortgeschritten",
       "keywords": [
-        "React",
-        "TypeScript",
-        "Angular",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "MYSQL",
-        "PHP 3-5 2003-2010",
-        "Pearl 1999-2003"
+        "three.js",
+        "React Three Fiber",
+        "Wordpress"
       ]
     },
     {
-      "name": "Azure",
-      "level": "Fortgeschritten",
+      "name": "Web Development",
+      "level": "Fortgeschritten - Experte",
       "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "next.js",
+        "React",
+        "FluentUI",
+        "Angular",
+        "AngularJS",
+        "Handlebars / Mustache",
+        "jQuery",
+        "Bootstrap",
+        "node.js",
+        "Express.js",
+        "Flask"       
+      ]
+    },
+    {
+      "name": "M365/Azure Development",
+      "level": "Fortgeschritten - Experte",
+      "keywords": [
+        "SPFX (SharePoint Apps)",
+        "Teams Apps",
+        "Power Platform",
+        "Nintex 2013-2019",
+        "SharePoint 2013 - Online",
+        "SharePoint Rest-API",
+        "Azure Graph-API",
         "Azure Storage Account",
         "Azure Cosmos DB",
-        "Azure Logic-App",
+        "Azure Logic-Apps",
         "Azure functions",
         "Azure Devops"
+      ]
+    },
+    {
+      "name": "Ad-Acta",
+      "level": "Beendet",
+      "keywords": [
+        "Laravel",
+        "PHPBB",
+        "Pearl/CGI",
+        "Basic",
+        "MSDOS 6.22",
+        "Amiga",
+        "Commodore 64"
       ]
     }
   ],
   "languages": [
     {
       "language": "Deutsch",
-      "fluency": "Native speaker"
+      "fluency": "Muttersprache"
     },
     {
       "language": "English",

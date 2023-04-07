@@ -7,17 +7,15 @@ based on <https://jsonresume.org/> -> <https://github.com/jsonresume>
 this will install the resume CLI
 
 ```bash
-#!/bin/bash
 npm install
 ```
 
 ## usage
 
-TBD
-
+```bash
+npm run test
+```
 ## TODO
 
-- build pipelines that create html and pdf
-- upload to ftp
-- simple header navgation
-- think about english cv
+- build pipelines "npm install, npm run test"
+- release pipeline upload to ftp
