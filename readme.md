@@ -22,6 +22,12 @@ this will validate the resume.json
 npm run test
 ```
 
+## create schema
+
+```bash
+node index.js
+```
+
 ## TODO
 
 - build pipelines "npm install, npm run test"

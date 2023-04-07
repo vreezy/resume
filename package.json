@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "json-schema-to-typescript": "^12.0.0",
     "resume-cli": "^3.0.8"
   },
   "name": "resume",
+  "main": "index.js",
+  "type": "module",
   "version": "1.0.0",
   "description": "resume Lars Eschweiler",
   "scripts": {
