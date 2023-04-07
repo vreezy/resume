@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vreezy/resume/issues"
   },
-  "homepage": "https://github.com/vreezy/resume#readme"
+  "homepage": "https://github.com/vreezy/resume#readme",
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
 }
