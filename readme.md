@@ -1,6 +1,10 @@
 # Resume Lars Eschweiler
 
+## Description
+
 based on <https://jsonresume.org/> -> <https://github.com/jsonresume>
+
+this project keeps only my resume.json with a validation check.
 
 ## install
 
@@ -10,11 +14,14 @@ this will install the resume CLI
 npm install
 ```
 
-## usage
+## tests
+
+this will validate the resume.json
 
 ```bash
 npm run test
 ```
+
 ## TODO
 
 - build pipelines "npm install, npm run test"
