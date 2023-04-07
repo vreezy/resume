@@ -4,11 +4,12 @@
     "resume-cli": "^3.0.8"
   },
   "name": "resume",
-  "main": "index.js",
+  "main": "resume.json",
   "type": "module",
   "version": "1.0.0",
   "description": "resume Lars Eschweiler",
   "scripts": {
+    "schema": "node getSchema.js",
     "test": "resume validate"
   },
   "repository": {

@@ -25,7 +25,7 @@ npm run test
 ## create schema
 
 ```bash
-node index.js
+node getSchema.js
 ```
 
 ## TODO
