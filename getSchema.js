@@ -2,7 +2,7 @@ import { compileFromFile } from "json-schema-to-typescript";
 import * as fs from "fs";
 import https from "https";
 
-fs.readFile('resume.json', (err, data) => {
+fs.readFile('./dist/resume.json', (err, data) => {
   if (err) throw err;
   const resume = JSON.parse(data);
   const schemaJson = fs.createWriteStream("schema.json");

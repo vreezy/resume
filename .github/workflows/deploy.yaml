@@ -1,0 +1,32 @@
+name: 🚀 Deploy resume.json
+
+on:
+  push:
+    # Sequence of patterns matched against refs/heads
+    branches:    
+      # Push events on main branch
+      - main
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy at https://lebenslauf.vreezy.de
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.3.4
+      with:
+        server: vreezy.de
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: dist
+        protocol: ftps
+        exclude: |
+          /*
+          !resume.json
+        
+        
+        
