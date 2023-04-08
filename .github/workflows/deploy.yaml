@@ -2,9 +2,7 @@ name: 🚀 Deploy resume.json
 
 on:
   push:
-    # Sequence of patterns matched against refs/heads
     branches:    
-      # Push events on main branch
       - main
 
 jobs:
@@ -24,8 +22,10 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         protocol: ftps
         exclude: |
-          /*
-          !resume.json
-        
-        
-        
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/.js*
+          package*
+          readme*
+       
