@@ -31,5 +31,3 @@ output: schema.d.ts
 ```bash
 node getSchema.js
 ```
-
-## Deploy
