@@ -47,11 +47,11 @@
     },
     {
       "name": "GFN AG",
-      "description": "Weiterbildung",
+      "description": "Die GFN AG ist ein Fortbildungsträger mit dem Schwerpunkt IT.",
       "location": "Köln",
       "url": "https://www.gfn.de/",
       "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
-      "summary": "",
+      "summary": "Bei der GFN AG habe ich mit freunde meine Fortbildung zum anwendungsentwickler durchgeführt.",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "highlights": [
@@ -238,7 +238,6 @@
         "jQuery",
         "Bootstrap",
         "node.js",
-        "Express.js",
         "Flask"       
       ]
     },
