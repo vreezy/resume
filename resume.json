@@ -10,7 +10,7 @@
     "summary": "Ich habe Erfahrung in der Entwicklung von Microsoft 365- und Azure-Lösungen, wie SharePoint, Power Apps und Automate, sowie in der Migration von Anwendungen nach SharePoint 2019 und Online. Ich habe als IT-Berater bei der novaCapta GmbH in Köln gearbeitet und war hauptsächlich beim Kunden tätig. In meiner bisherigen Karriere habe ich an einer Vielzahl von Projekten gearbeitet, von der Entwicklung von Webanwendungen bis hin zu datenbankgestützten Systemen. Meine Fähigkeit, komplexe Probleme zu analysieren und zu lösen, hat mich dazu befähigt, effektive und effiziente Lösungen zu entwickeln, die den Anforderungen meiner Kunden gerecht werden. Im Frontend setze ich aktuell hauptsächlich React mit Fluent UI ein. Bootstrap darf aber auch nicht fehlen. Im Backend arbeite ich meistens mit Daten aus SharePoint oder Microsoft-Graph-API. SharePoint bietet eine REST-API-Schnittstelle, daher muss ich nicht immer ein Backend entwickeln. Wenn die Daten dort nicht liegen, nutze ich gerne Azure Functions oder Logic-Apps, um mir einen Endpunkt zu generieren. Daten speichere ich gerne in Cosmos DB. Vor meiner IT-Karriere arbeitete ich als Elektroniker. Diese Fähigkeiten sind nicht verloren gegangen. Aktuell nutze ich diese nur privat, um DIY-IoT-Lösungen zu basteln.",
     "location": {
       "address": "Buchenweg 16",
-      "postalCode": "52428",
+      "postalCode": "52399",
       "city": "Merzenich",
       "countryCode": "DE",
       "region": "NRW"
@@ -25,6 +25,11 @@
         "network": "Github",
         "username": "vreezy",
         "url": "https://github.com/vreezy"
+      },
+      {
+        "network": "Teams",
+        "username": "Lars Eschweiler",
+        "url": "https://teams.microsoft.com/l/chat/0/0?users=lars.eschweiler@outlook.com"
       }
     ]
   },
