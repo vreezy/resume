@@ -67,7 +67,7 @@ jobs:
         node-version: '18'
 
     - name: Update version and lastModified
-      run: node .\gitUpdateVersion.js ${{ steps.gitversion.outputs.major }} ${{ steps.gitversion.outputs.minor }} ${{ steps.gitversion.outputs.patch }}
+      run: node gitUpdateVersion.js ${{ steps.gitversion.outputs.major }} ${{ steps.gitversion.outputs.minor }} ${{ steps.gitversion.outputs.patch }}
 
     - name: 🔨 Test Project
       run: |
