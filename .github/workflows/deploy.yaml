@@ -76,8 +76,9 @@ jobs:
 
     - name: Add & Commit
       uses: EndBug/add-and-commit@v9.1.1
-      message: Update Version to v${{ steps.gitversion.outputs.semVer }}
-      tag: v${{ steps.gitversion.outputs.semVer }}
+      with:
+        message: Update Version to v${{ steps.gitversion.outputs.semVer }}
+        tag: v${{ steps.gitversion.outputs.semVer }}
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
