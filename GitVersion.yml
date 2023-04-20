@@ -1,0 +1,3 @@
+increment: Inherit
+continuous-delivery-fallback-tag: ci
+tag-prefix: '[vV]'
