@@ -90,10 +90,10 @@
     },
     {
       "name": "Zeitarbeit",
-      "description": "bei diversen Dienstleister unter anderem Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
+      "description": "In der Zeit habe ich bei diversen Dienstleister gearbeitet. Unter anderem Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
       "location": "Düren/Aachen/Köln/Bonn",
       "position": "Personaldienstleister als Elektroniker",
-      "summary": "Ich wurde als Personaldienstleister zu Kunden geschickt.",
+      "summary": "Ich wurde als Personaldienstleister zu Kunden geschickt. Die Einsätze beliefen sich auf die in der Branche Üblichen zwei Wochen bis drei Monate. Bei jedem Kunden gab es Unterschiedliche Aufgaben. In der Urlaubszeit habe ich meistens den einzigsten Betriebselektriker vertretn und habe Betriebsanlagen am laufen gehalten. Einige Firmen hatten auch hohe auslastungen und man hat mich als zusätzlichen Produktionshelfer eingesetzt",
       "startDate": "2004-01-01",
       "endDate": "2008-12-31",
       "highlights": [
@@ -114,8 +114,7 @@
       "endDate": "2003-12-31",
       "highlights": [
         "Rasenmähertraktor fahren",
-        "Nikotin deckende Farbe entdeckt",
-        "Im Fachhandel über 50% Rabatt ausgehandelt für Caritas"
+        "Nikotin deckende Farbe entdeckt"        
       ]
     },
     {
@@ -302,7 +301,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
+    "version": "v0.0.0",
     "lastModified": "2023-04-03T21:00:00"
   }
 }
