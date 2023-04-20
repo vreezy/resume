@@ -80,7 +80,7 @@
       "position": "Monteur",
       "summary": "Montage von Lehr- und Messgeräten",
       "startDate": "2009-01-01",
-      "endDate": "2017-03-31",      
+      "endDate": "2017-03-31",
       "highlights": [
         "Stellvertretender Abteilungsleiter von mehreren Personen",
         "Einarbeitung von Personaldienstleistern",
@@ -107,14 +107,14 @@
       "name": "Altenheim St. Hildegard Jülich",
       "description": "Altenheim für Pflegebedüftige Menschen",
       "location": "Jülich",
-      "url": "https://caritas-dn.de",      
+      "url": "https://caritas-dn.de",
       "position": "Zivieldienstleistender als Hausmeister",
       "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen und Essen auslieferung",
       "startDate": "2003-03-01",
       "endDate": "2003-12-31",
       "highlights": [
         "Rasenmähertraktor fahren",
-        "Nikotin deckende Farbe entdeckt"        
+        "Nikotin deckende Farbe entdeckt"
       ]
     },
     {
@@ -131,7 +131,7 @@
         "Einsatz im Tagebau Inden",
         "Einsatz bei EWV (Stromversorger raum Eschweiler)",
         "Berufsschule Eschweiler"
-      ]      
+      ]
     }
   ],
   "volunteer": [
@@ -237,7 +237,7 @@
         "jQuery",
         "Bootstrap",
         "node.js",
-        "Flask"       
+        "Flask"
       ]
     },
     {
@@ -301,7 +301,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v0.0.0",
-    "lastModified": "2023-04-03T21:00:00"
+    "version": "v0.1.0",
+    "lastModified": "2023-04-20T18:47:10.313Z"
   }
 }
