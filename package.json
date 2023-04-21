@@ -5,11 +5,12 @@
   },
   "name": "resume",
   "main": "resume.json",
-  "type": "module",
-  "version": "1.0.0",
+  "type": "commonjs",
+  "version": "0.0.0",
   "description": "resume Lars Eschweiler",
   "scripts": {
-    "schema": "node getSchema.js",
+    "build": "npx tsc",
+    "schema": "npx tsc && node getSchema.js",
     "test": "resume validate"
   },
   "repository": {
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/vreezy/resume/issues"
   },
-  "homepage": "https://github.com/vreezy/resume#readme"
+  "homepage": "https://github.com/vreezy/resume#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.13",
+    "typescript": "^5.0.4"
+  }
 }

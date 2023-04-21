@@ -2,3 +2,4 @@ node_modules
 schema*
 schema.d.ts
 schema.json
+*.js

@@ -1,0 +1,73 @@
+name: 🚀 Deploy resume.json
+
+on:
+  push:
+    branches:    
+      - main
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy at https://lebenslauf.vreezy.de
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Install GitVersion
+      uses: gittools/actions/gitversion/setup@v0
+      with:
+        ## versionSpec: '5.x'
+        preferLatestVersion: true
+
+    - name: Determine Version
+      id:   gitversion # id to later be referenced
+      uses: gittools/actions/gitversion/execute@v0
+      with:
+        useConfigFile: true
+
+    - name: Use Node.js 18
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Update version and lastModified
+      run: |
+        npm install
+        npm run build
+        node gitUpdateVersion.js ${{ steps.gitversion.outputs.major }} ${{ steps.gitversion.outputs.minor }} ${{ steps.gitversion.outputs.patch }}
+
+    - name: 🔨 Test Project
+      run: |
+        npm install
+        npm run test
+
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v9.1.1
+      with:
+        message: Update Version to v${{ steps.gitversion.outputs.semVer }}
+        tag: v${{ steps.gitversion.outputs.semVer }}
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: vreezy.de
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        protocol: ftps
+        state-name: .ftp-deploy-sync-backend-state.json
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          getSchema.js
+          getSchema.ts
+          gitUpdateVersion.js
+          gitUpdateVersion.ts
+          tsconfig.json
+          GitVersion.yml
+          package*
+          readme*
+       
