@@ -6,8 +6,29 @@ on:
       - main
 
 jobs:
-  web-deploy:
-    name: 🎉 Deploy at https://lebenslauf.vreezy.de
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Use Node.js 18
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: 🔨 Test Project
+      run: |
+        npm install
+        npm run test
+
+  update-version:
+    name: Update Version
+    if: success()
     runs-on: ubuntu-latest
 
     steps:
@@ -39,16 +60,27 @@ jobs:
         npm run build
         node gitUpdateVersion.js ${{ steps.gitversion.outputs.major }} ${{ steps.gitversion.outputs.minor }} ${{ steps.gitversion.outputs.patch }}
 
-    - name: 🔨 Test Project
-      run: |
-        npm install
-        npm run test
-
     - name: Add & Commit
       uses: EndBug/add-and-commit@v9.1.1
       with:
         message: Update Version to v${{ steps.gitversion.outputs.semVer }}
         tag: v${{ steps.gitversion.outputs.semVer }}
+
+  web-deploy:
+    name: 🎉 Deploy at https://lebenslauf.vreezy.de
+    if: success()
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+   - name: Use Node.js 18
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
 
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
