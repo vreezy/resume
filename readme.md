@@ -6,7 +6,12 @@
 
 based on <https://jsonresume.org/> -> <https://github.com/jsonresume>
 
-this project keeps my resume.json and some extras.
+this project primary function is to keep my resume.json
+
+extras:
+
+- it can create a typescript schema from resume.json
+- Pipeline with test, updateVersion and deploy on my ftp
 
 ## install
 
@@ -26,8 +31,22 @@ npm run test
 
 ## create schema
 
-output: schema.d.ts
+it's used by typescript based projects
 
 ```bash
+npm run build
 node getSchema.js
+```
+
+donwload schema.json
+
+outputs: schema.d.ts
+
+## updateVersion
+
+used by pipeline
+
+```bash
+npm run build
+node gitUpdateVersion.js Major Minor Patch
 ```
