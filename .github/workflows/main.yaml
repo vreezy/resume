@@ -28,7 +28,7 @@ jobs:
 
   update-version:
     name: Update Version
-    if: success()
+    needs: [test]
     runs-on: ubuntu-latest
 
     steps:
@@ -68,7 +68,7 @@ jobs:
 
   web-deploy:
     name: 🎉 Deploy at https://lebenslauf.vreezy.de
-    if: success()
+    needs: [update-version]
     runs-on: ubuntu-latest
 
     steps:
