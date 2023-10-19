@@ -6,7 +6,7 @@
   "name": "resume",
   "main": "resume.json",
   "type": "commonjs",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "resume Lars Eschweiler",
   "scripts": {
     "build": "npx tsc",
