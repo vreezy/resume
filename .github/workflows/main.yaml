@@ -82,6 +82,13 @@ jobs:
       with:
         node-version: '18'
 
+    - name: 'Upload Artifact'
+      uses: actions/upload-artifact@v3
+      with:
+        name: resume-artifact
+        path: resume.json
+        retention-days: 10
+
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
