@@ -61,8 +61,9 @@ jobs:
         node gitUpdateVersion.js ${{ steps.gitversion.outputs.major }} ${{ steps.gitversion.outputs.minor }} ${{ steps.gitversion.outputs.patch }}
 
     - name: Add & Commit
-      uses: EndBug/add-and-commit@v9.1.1
+      uses: EndBug/add-and-commit@v9.1.4
       with:
+        node-version: '20'
         message: Update Version to v${{ steps.gitversion.outputs.semVer }}
         tag: v${{ steps.gitversion.outputs.semVer }}
 
