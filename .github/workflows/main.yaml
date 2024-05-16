@@ -12,14 +12,14 @@ jobs:
 
     steps:
     - name: 🚚 Get latest code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    - name: Use Node.js 18
-      uses: actions/setup-node@v3
+    - name: Use Node.js 20
+      uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
 
     - name: 🔨 Test Project
       run: |
@@ -33,7 +33,7 @@ jobs:
 
     steps:
     - name: 🚚 Get latest code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
@@ -49,10 +49,10 @@ jobs:
       with:
         useConfigFile: true
 
-    - name: Use Node.js 18
-      uses: actions/setup-node@v3
+    - name: Use Node.js 20
+      uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
 
     - name: Update version and lastModified
       run: |
@@ -73,24 +73,24 @@ jobs:
 
     steps:
     - name: 🚚 Get latest code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
         
-    - name: Use Node.js 18
-      uses: actions/setup-node@v3
+    - name: Use Node.js 20
+      uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
 
     - name: 'Upload Artifact'
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: resume-artifact
         path: resume.json
         retention-days: 10
 
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server: vreezy.de
         username: ${{ secrets.FTP_USERNAME }}
