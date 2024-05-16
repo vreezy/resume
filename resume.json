@@ -7,7 +7,7 @@
     "email": "lars.eschweiler@outlook.com",
     "phone": "",
     "url": "https://vreezy.de",
-    "summary": "Ich habe Erfahrung in der Entwicklung von Microsoft 365- und Azure-Lösungen, wie SharePoint, Power Apps und Automate, sowie in der Migration von Anwendungen nach SharePoint 2019 und Online. Ich habe als IT-Berater bei der novaCapta GmbH in Köln gearbeitet und war hauptsächlich beim Kunden tätig. In meiner bisherigen Karriere habe ich an einer Vielzahl von Projekten gearbeitet, von der Entwicklung von Webanwendungen bis hin zu datenbankgestützten Systemen. Meine Fähigkeit, komplexe Probleme zu analysieren und zu lösen, hat mich dazu befähigt, effektive und effiziente Lösungen zu entwickeln, die den Anforderungen meiner Kunden gerecht werden. Im Frontend setze ich aktuell hauptsächlich React mit Fluent UI ein. Bootstrap darf aber auch nicht fehlen. Im Backend arbeite ich meistens mit Daten aus SharePoint oder Microsoft-Graph-API. SharePoint bietet eine REST-API-Schnittstelle, daher muss ich nicht immer ein Backend entwickeln. Wenn die Daten dort nicht liegen, nutze ich gerne Azure Functions oder Logic-Apps, um mir einen Endpunkt zu generieren. Daten speichere ich gerne in Cosmos DB. Vor meiner IT-Karriere arbeitete ich als Elektroniker. Diese Fähigkeiten sind nicht verloren gegangen. Aktuell nutze ich diese nur privat, um DIY-IoT-Lösungen zu basteln.",
+    "summary": "Ich verfüge über umfangreiche Erfahrung in der Entwicklung von Microsoft 365- und Azure-Lösungen, einschließlich SharePoint, Power Apps und Automate, sowie in der Migration von Anwendungen zu SharePoint 2019 und in die Cloud. Meine Tätigkeit als IT-Berater bei der novaCapta GmbH in Köln war vorrangig kundenorientiert. In meiner bisherigen Laufbahn habe ich an einer Vielzahl von Projekten gearbeitet, angefangen von der Entwicklung von Webanwendungen bis hin zu datenbankgestützten Systemen. Meine Fähigkeit zur Analyse und Lösung komplexer Probleme ermöglicht es mir, maßgeschneiderte Lösungen zu entwickeln, die den Bedürfnissen meiner Kunden gerecht werden.    Bei der Frontend-Entwicklung verwende ich hauptsächlich React mit Fluent UI. Im Backend arbeite ich in der Regel mit Daten aus SharePoint oder der Microsoft Graph-API. Da SharePoint eine REST-API-Schnittstelle bietet, ist nicht immer ein separates Backend erforderlich. Falls die Daten nicht dort gespeichert sind, nutze ich gerne Azure Functions oder Logic Apps, um Endpunkte zu generieren. Für die Datenspeicherung bevorzuge ich Cosmos DB.        Vor meiner Tätigkeit in der IT war ich als Elektroniker tätig. Diese Fähigkeiten sind nicht verloren gegangen, sondern kommen mir nun bei DIY-IoT-Projekten im privaten Bereich zugute.",
     "location": {
       "address": "Buchenweg 16",
       "postalCode": "52399",
@@ -38,12 +38,12 @@
       "summary": "Einsatz beim Kunden, wärend Corona im Home-Office. Eher Entwickler tätigkeiten als Berater",
       "startDate": "2019-08-01",
       "highlights": [
-        "SPFX und Teams Apps für SharePoint 2013 bis Online z.B.: Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung, Formulare",
-        "Entwicklung in Power Apps und Automate z.B. Ticketsystem, Audit",
-        "Entwicklung in Nintex Forms und Workflow z.B. Genehmigungsprozesse",
-        "Migration Von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
-        "Aufbau von DevOps Build/Release Pipelines mit PowerShell"
-      ]
+        "Entwicklung von SPFX- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung und Formulare",
+        "Entwicklung in Power Apps und Automate, z.B. Ticketsysteme, Audits",
+        "Entwicklung in Nintex Forms und Workflow, z.B. Genehmigungsprozesse",
+        "Migration von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
+        "Aufbau von DevOps-Build-/Release-Pipelines mit PowerShell, TypeScript und YAML"
+        ]
     },
     {
       "name": "GFN AG",
@@ -51,12 +51,11 @@
       "location": "Köln",
       "url": "https://www.gfn.de/",
       "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
-      "summary": "Bei der GFN AG habe ich mit freunde meine Fortbildung zum anwendungsentwickler durchgeführt.",
+      "summary": "Bei der GFN AG habe ich mit freunde meine Fortbildung zum Anwendungsentwickler durchgeführt.",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "highlights": [
-        "Neun monatiges Praktikum bei der Firma novaCapta GmbH",
-        "Endlich PHP gelernt"
+        "Sehr viele nette Dozenten kennen gelernt"
       ]
     },
     {
@@ -129,8 +128,7 @@
       "highlights": [
         "Einsatz im Tagebau Hambach",
         "Einsatz im Tagebau Inden",
-        "Einsatz bei EWV (Stromversorger raum Eschweiler)",
-        "Berufsschule Eschweiler"
+        "Einsatz bei EWV (Stromversorger raum Eschweiler)"
       ]
     }
   ],
@@ -142,6 +140,7 @@
       "startDate": "2022",
       "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich Bildung zum Ziel gesetzt hat",
       "highlights": [
+        "seit März 2023 Vorstand",
         "Webseite Administrator"
       ]
     },
@@ -189,19 +188,19 @@
       "name": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
       "date": "2023-02-24",
       "issuer": "Microsoft",
-      "url": "https://www.credly.com/badges/9f2686b9-6604-4732-9850-072497b3caa3/public_url"
+      "url": "https://learn.microsoft.com/api/credentials/share/de-de/43615427/8E8DCB6A3A5CD194?sharingId=FADB175E33FCF1BB"
     },
     {
       "name": "Microsoft Certified: Azure Developer Associate (AZ-204)",
       "date": "2021-03-12",
       "issuer": "Microsoft",
-      "url": "https://www.credly.com/badges/a2b12f99-4aab-492c-8485-f55bc1e791c6/public_url"
+      "url": "https://learn.microsoft.com/api/credentials/share/de-de/43615427/390F5D33B72B7F7B?sharingId=FADB175E33FCF1BB"
     },
     {
       "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
       "date": "2020-08-21",
       "issuer": "Microsoft",
-      "url": "https://www.credly.com/badges/ecd04688-7665-4110-8444-01797d55c41e/public_url"
+      "url": "https://learn.microsoft.com/api/credentials/share/de-de/43615427/5F0F0A4F7177E98B?sharingId=FADB175E33FCF1BB"
     },
     {
       "name": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
@@ -213,11 +212,10 @@
   "skills": [
     {
       "name": "Aktuelle Interressen",
-      "level": "Anfänger - Fortgeschritten",
+      "level": "Anfänger",
       "keywords": [
         "three.js",
-        "React Three Fiber",
-        "Wordpress"
+        "React Three Fiber"       
       ]
     },
     {
@@ -231,13 +229,12 @@
         "next.js",
         "React",
         "FluentUI",
-        "Angular",
-        "AngularJS",
         "Handlebars / Mustache",
         "jQuery",
         "Bootstrap",
         "node.js",
-        "Flask"
+        "Flask",
+        "Wordpress"
       ]
     },
     {
@@ -262,6 +259,8 @@
       "name": "Ad-Acta",
       "level": "Beendet",
       "keywords": [
+        "Angular",
+        "AngularJS",
         "Laravel",
         "PHPBB",
         "Pearl/CGI",
