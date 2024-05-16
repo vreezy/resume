@@ -10,7 +10,7 @@
   "scripts": {
     "build": "npx tsc",
     "schema": "npx tsc && node getSchema.js",
-    "test": "resume validate"
+    "test": "resumed validate"
   },
   "repository": {
     "type": "git",
