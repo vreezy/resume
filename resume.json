@@ -31,14 +31,14 @@
   "work": [
     {
       "name": "novaCapta GmbH",
-      "description": "Die novacaCapta GmbH ist eine Microsoft 365 und Azure Dienstleister",
+      "description": "Die novaCapta GmbH ist eine Microsoft 365 und Azure Dienstleister",
       "location": "Köln",
       "url": "https://novacapta.de",
       "position": "IT-Berater",
-      "summary": "Einsatz beim Kunden, wärend Corona im Home-Office. Eher Entwickler tätigkeiten als Berater",
+      "summary": "Einsatz beim Kunden",
       "startDate": "2019-08-01",
       "highlights": [
-        "Entwicklung von SPFX- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung und Formulare",
+        "Entwicklung von SPFx- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Rundschreiben, Aufgabenverwaltung und Formulare",
         "Entwicklung in Power Apps und Automate, z.B. Ticketsysteme, Audits",
         "Entwicklung in Nintex Forms und Workflow, z.B. Genehmigungsprozesse",
         "Migration von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
@@ -50,7 +50,7 @@
       "description": "Die GFN AG ist ein Fortbildungsträger mit dem Schwerpunkt IT.",
       "location": "Köln",
       "url": "https://www.gfn.de/",
-      "position": "Auszubildener Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
+      "position": "Auszubildender Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
       "summary": "Bei der GFN AG habe ich mit freunde meine Fortbildung zum Anwendungsentwickler durchgeführt.",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
@@ -98,13 +98,13 @@
       "highlights": [
         "Betriebselektroniker als Urlaubsvertretung",
         "Montage von Gasturbinen",
-        "Montage von CD/DVD Gussmaschienen",
+        "Montage von CD/DVD Gussmaschinen",
         "Qualitätskontrolle Papierproduktion"
       ]
     },
     {
       "name": "Altenheim St. Hildegard Jülich",
-      "description": "Altenheim für Pflegebedüftige Menschen",
+      "description": "Altenheim für Pflegebedürftige Menschen",
       "location": "Jülich",
       "url": "https://caritas-dn.de",
       "position": "Zivieldienstleistender als Hausmeister",
@@ -121,7 +121,7 @@
       "description": "Große Ausbildungsstätte mit Kantine. Platz für über 140 Auszubildende",
       "location": "Weißweiler",
       "url": "https://www.rwe.de",
-      "position": "Auszubildener Energieelektroniker Betriebstechnik IHK",
+      "position": "Auszubildender Energieelektroniker Betriebstechnik IHK",
       "summary": "Zusammen mit ca. 20 anderen Ausbildung",
       "startDate": "1999-08-01",
       "endDate": "2003-02-28",
@@ -211,7 +211,7 @@
   ],
   "skills": [
     {
-      "name": "Aktuelle Interressen",
+      "name": "Aktuelle Interessen",
       "level": "Anfänger",
       "keywords": [
         "three.js",
@@ -234,14 +234,14 @@
         "Bootstrap",
         "node.js",
         "Flask",
-        "Wordpress"
+        "WordPress"
       ]
     },
     {
       "name": "M365/Azure Development",
       "level": "Fortgeschritten - Experte",
       "keywords": [
-        "SPFX (SharePoint Apps)",
+        "SPFx (SharePoint Apps)",
         "Teams Apps",
         "Power Platform",
         "Nintex 2013-2019",
