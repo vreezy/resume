@@ -44,7 +44,7 @@
       "location": "Köln",
       "url": "https://www.gfn.de/",
       "position": "Auszubildender Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
-      "summary": "Bei der GFN AG habe ich mit freunde meine Fortbildung zum Anwendungsentwickler durchgeführt.",
+      "summary": "Fortbildung zum Anwendungsentwickler",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "highlights": [
@@ -85,7 +85,7 @@
       "description": "In der Zeit habe ich bei diversen Dienstleister gearbeitet. Unter anderem Persona Service Düren, Dekra Arbeit Bonn und PSI GmbH Köln",
       "location": "Düren/Aachen/Köln/Bonn",
       "position": "Personaldienstleister als Elektroniker",
-      "summary": "Ich wurde als Personaldienstleister zu Kunden geschickt. Die Einsätze beliefen sich auf die in der Branche Üblichen zwei Wochen bis drei Monate. Bei jedem Kunden gab es Unterschiedliche Aufgaben. In der Urlaubszeit habe ich meistens den einzigsten Betriebselektriker vertretn und habe Betriebsanlagen am laufen gehalten. Einige Firmen hatten auch hohe auslastungen und man hat mich als zusätzlichen Produktionshelfer eingesetzt",
+      "summary": "Ich wurde als Personaldienstleister zu Kunden geschickt. Die Einsätze beliefen sich auf die in der Branche Üblichen zwei bis zwölf Wochen. Bei jedem Kunden gab es Unterschiedliche Aufgaben. In der Urlaubszeit habe ich meistens den einzigen Betriebselektriker vertreten und habe Betriebsanlagen am laufen gehalten. Einige Firmen hatten auch hohe auslastungen und man hat mich als zusätzlichen Produktionshelfer eingesetzt",
       "startDate": "2004-01-01",
       "endDate": "2008-12-31",
       "highlights": [
@@ -101,37 +101,36 @@
       "location": "Jülich",
       "url": "https://caritas-dn.de",
       "position": "Zivieldienstleistender als Hausmeister",
-      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen und Essen auslieferung",
+      "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen",
       "startDate": "2003-03-01",
       "endDate": "2003-12-31",
       "highlights": []
     },
     {
       "name": "RWE Rheinbraun AG",
-      "description": "Große Ausbildungsstätte mit Kantine. Platz für über 140 Auszubildende",
+      "description": "In einer Ausbildungsstätte für über 140 Auszubildende",
       "location": "Weißweiler",
       "url": "https://www.rwe.de",
       "position": "Auszubildender Energieelektroniker Betriebstechnik IHK",
-      "summary": "Zusammen mit ca. 20 anderen Ausbildung",
+      "summary": "Erste Berufliche Ausbildung",
       "startDate": "1999-08-01",
       "endDate": "2003-02-28",
       "highlights": [
         "Einsatz im Tagebau Hambach",
         "Einsatz im Tagebau Inden",
-        "Einsatz bei EWV (Stromversorger raum Eschweiler)"
+        "Einsatz bei EWV"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Erfindergeist Jülich e.V.",
-      "position": "Mitglied",
+      "position": "Vorstand",
       "url": "https://erfindergeist.org/",
       "startDate": "2022",
-      "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich Bildung zum Ziel gesetzt hat",
+      "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich zum Ziel gesetzt hat eine Offen Werkstatt in Jülich zu etablieren",
       "highlights": [
         "seit März 2023 Vorstand",
-        "Webseite Administrator",
         "Wordpress Entwicklung"
       ]
     },
@@ -175,6 +174,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "GitHub Foundations",
+      "date": "2024-05-29",
+      "issuer": "GitHub",
+      "url": "https://www.credly.com/badges/f66631d6-3014-4d6d-a908-d59e88d50567/linked_in_profile"
+    },
     {
       "name": "Microsoft Certified: DevOps Engineer Expert (AZ-400)",
       "date": "2023-02-24",
@@ -276,15 +281,13 @@
     {
       "name": "Magic the Gathering",
       "keywords": [
-        "Tradingcards",
-        "Game",
-        "Socialising"
+        "Geselligkeit"
       ]
     },
     {
-      "name": "Mountainbike",
+      "name": "Trekking",
       "keywords": [
-        "Bicycle",
+        "Fahrrad",
         "Outdoor"
       ]
     }
