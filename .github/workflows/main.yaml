@@ -110,4 +110,6 @@ jobs:
           GitVersion.yml
           package*
           readme*
+          .npmrc
+          *.old.resume.json
        

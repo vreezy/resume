@@ -2,14 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Lars Eschweiler",
-    "label": "Entwickler",
+    "label": "IT-Berater",
     "image": "",
-    "email": "lars.eschweiler@outlook.com",
-    "phone": "",
-    "url": "https://vreezy.de",
-    "summary": "Ich verfüge über umfangreiche Erfahrung in der Entwicklung von Microsoft 365- und Azure-Lösungen, einschließlich SharePoint, Power Apps und Automate, sowie in der Migration von Anwendungen zu SharePoint 2019 und in die Cloud. Meine Tätigkeit als IT-Berater bei der novaCapta GmbH in Köln war vorrangig kundenorientiert. In meiner bisherigen Laufbahn habe ich an einer Vielzahl von Projekten gearbeitet, angefangen von der Entwicklung von Webanwendungen bis hin zu datenbankgestützten Systemen. Meine Fähigkeit zur Analyse und Lösung komplexer Probleme ermöglicht es mir, maßgeschneiderte Lösungen zu entwickeln, die den Bedürfnissen meiner Kunden gerecht werden.    Bei der Frontend-Entwicklung verwende ich hauptsächlich React mit Fluent UI. Im Backend arbeite ich in der Regel mit Daten aus SharePoint oder der Microsoft Graph-API. Da SharePoint eine REST-API-Schnittstelle bietet, ist nicht immer ein separates Backend erforderlich. Falls die Daten nicht dort gespeichert sind, nutze ich gerne Azure Functions oder Logic Apps, um Endpunkte zu generieren. Für die Datenspeicherung bevorzuge ich Cosmos DB.        Vor meiner Tätigkeit in der IT war ich als Elektroniker tätig. Diese Fähigkeiten sind nicht verloren gegangen, sondern kommen mir nun bei DIY-IoT-Projekten im privaten Bereich zugute.",
+    "email": "lars.xxx@outlook.com",
+    "phone": "000",
+    "summary": "Ich verfüge über langjährige Erfahrung in der Entwicklung und Migration von Lösungen auf Basis von Microsoft 365 und Azure – insbesondere mit SharePoint Online, Power Apps und Power Automate. \n\n Als IT-Berater liegt mein Fokus auf kundenorientierten Projekten. Im Laufe meiner beruflichen Laufbahn war ich an zahlreichen Vorhaben beteiligt. Durch meine ausgeprägten analytischen Fähigkeiten gelingt es mir, komplexe Problemstellungen zu durchdringen und passgenaue Lösungen zu entwickeln, die individuell auf die Anforderungen der Kunden zugeschnitten sind.",
     "location": {
-      "address": "Buchenweg 16",
+      "address": "xxx xxx",
       "postalCode": "52399",
       "city": "Merzenich",
       "countryCode": "DE",
@@ -20,11 +19,6 @@
         "network": "linkedin",
         "username": "Lars Eschweiler",
         "url": "https://www.linkedin.com/in/lars-eschweiler"
-      },
-      {
-        "network": "Github",
-        "username": "vreezy",
-        "url": "https://github.com/vreezy"
       }
     ]
   },
@@ -41,8 +35,7 @@
         "Entwicklung von SPFx- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Legal Matter, Aufgabenverwaltung und Formulare",
         "Entwicklung in Power Apps und Automate aber auch Nintex Forms und Workflows, z.B. Ticketsysteme, Audits, Genehmigungsprozesse",
         "Migration von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
-        "Aufbau von Azure DevOps Build- und Release-Pipelines, z.B. Automatisches Bauen und Deployen von SPFx Anwendungen",
-        "Azure Functions "
+        "Aufbau von Azure DevOps Build- und Release-Pipelines, z.B. Automatisches Bauen und Deployen von SPFx Anwendungen"
       ]
     },
     {
@@ -111,10 +104,7 @@
       "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen und Essen auslieferung",
       "startDate": "2003-03-01",
       "endDate": "2003-12-31",
-      "highlights": [
-        "Rasenmähertraktor fahren",
-        "Nikotin deckende Farbe entdeckt"
-      ]
+      "highlights": []
     },
     {
       "name": "RWE Rheinbraun AG",
