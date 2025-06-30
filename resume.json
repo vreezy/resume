@@ -6,7 +6,7 @@
     "image": "",
     "email": "lars.xxx@outlook.com",
     "phone": "000",
-    "summary": "Ich verfüge über langjährige Erfahrung in der Entwicklung und Migration von Lösungen auf Basis von Microsoft 365 und Azure – insbesondere mit SharePoint Online, Power Apps und Power Automate. <br /><br /> Als IT-Berater liegt mein Fokus auf kundenorientierten Projekten. Im Laufe meiner beruflichen Laufbahn war ich an zahlreichen Vorhaben beteiligt. Durch meine ausgeprägten analytischen Fähigkeiten gelingt es mir, komplexe Problemstellungen zu durchdringen und passgenaue Lösungen zu entwickeln, die individuell auf die Anforderungen der Kunden zugeschnitten sind.",
+    "summary": "Erfahrener IT-Berater mit Schwerpunkt auf Microsoft 365- und Azure-Lösungen, insbesondere in den Bereichen SharePoint Online, Power Apps und Power Automate. Fundierte Erfahrung in der Entwicklung, Migration und Optimierung digitaler Arbeitsumgebungen sowie in der kundenorientierten Umsetzung komplexer Anforderungen. Starke analytische Fähigkeiten, hohe Problemlösungskompetenz und ein ganzheitliches Verständnis für moderne Cloud-Technologien.",
     "location": {
       "address": "xxx xxx",
       "postalCode": "52399",
@@ -29,13 +29,13 @@
       "location": "Köln",
       "url": "https://novacapta.de",
       "position": "IT-Berater",
-      "summary": "Beratung und Entwicklung von SharePoint/M365 Anwendungen",
+      "summary": "Microsoft-365- und Azure-Projekte mit Fokus auf individuelle Kundenlösungen",
       "startDate": "2019-08-01",
       "highlights": [
-        "Entwicklung von SPFx- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Legal Matter, Aufgabenverwaltung und Formulare",
-        "Entwicklung in Power Apps und Automate aber auch Nintex Forms und Workflows, z.B. Ticketsysteme, Audits, Genehmigungsprozesse",
-        "Migration von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
-        "Aufbau von Azure DevOps Build- und Release-Pipelines, z.B. Automatisches Bauen und Deployen von SPFx Anwendungen"
+        "Konzeption und Entwicklung von SPFx- und Teams-Apps (z.B. Kantinenverwaltung, Legal Matter, Aufgaben- und Formularlösungen)",
+        "Entwicklung mit Power Apps, Power Automate und Nintex (z. B. Ticketsysteme, Audits, Genehmigungsworkflows)",
+        "Migration von Excel-, SharePoint-, Lotus-Notes- und PHP-Anwendungen nach SharePoint 2019/Online",
+        "Aufbau und Betreuung von Azure DevOps-Pipelines (CI/CD)"
       ]
     },
     {
@@ -215,40 +215,47 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Fortgeschritten - Experte",
+      "name": "Frontend",
       "keywords": [
+        "React",
+        "FluentUI",
         "HTML",
         "CSS",
         "JavaScript",
         "TypeScript",
-        "vite",
-        "React",
-        "FluentUI",
         "Handlebars / Mustache",
         "jQuery",
-        "Bootstrap",
-        "Flask",
-        "PHP",
-        "WordPress"
+        "Bootstrap"
       ]
     },
     {
       "name": "M365/Azure Development",
-      "level": "Fortgeschritten - Experte",
       "keywords": [
-        "SPFx (SharePoint Online Apps)",
-        "Teams Apps",
-        "Power Platform",
-        "Nintex 2013-2019",
-        "SharePoint 2013 - Online",
-        "SharePoint Rest-API",
-        "Azure Graph-API",
-        "Azure Storage Account",
+        "SharePoint Framework (SPFx)",
+        "Microsoft Graph-API",
         "Azure Cosmos DB",
         "Azure Logic-Apps",
         "Azure functions",
         "Azure Devops"
+      ]
+    },
+    {
+      "name": "Plattformen",
+      "keywords": [
+        "SharePoint Online/2013-2019",
+        "Microsoft Teams",
+        "Power Platform (Apps und Automate)",
+        "Nintex"
+      ]
+    },
+    {
+      "name": "Hobby",
+      "keywords": [
+        "WordPress",
+        "PHP",
+        "Flask",
+        "MySQL",
+        "GitHub"
       ]
     },
     {
@@ -275,21 +282,6 @@
     {
       "language": "English",
       "fluency": "Fortgeschritten"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Magic the Gathering",
-      "keywords": [
-        "Geselligkeit"
-      ]
-    },
-    {
-      "name": "Trekking",
-      "keywords": [
-        "Fahrrad",
-        "Outdoor"
-      ]
     }
   ],
   "meta": {
