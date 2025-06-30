@@ -6,7 +6,7 @@
     "image": "",
     "email": "lars.xxx@outlook.com",
     "phone": "000",
-    "summary": "Ich verfüge über langjährige Erfahrung in der Entwicklung und Migration von Lösungen auf Basis von Microsoft 365 und Azure – insbesondere mit SharePoint Online, Power Apps und Power Automate. \n\n Als IT-Berater liegt mein Fokus auf kundenorientierten Projekten. Im Laufe meiner beruflichen Laufbahn war ich an zahlreichen Vorhaben beteiligt. Durch meine ausgeprägten analytischen Fähigkeiten gelingt es mir, komplexe Problemstellungen zu durchdringen und passgenaue Lösungen zu entwickeln, die individuell auf die Anforderungen der Kunden zugeschnitten sind.",
+    "summary": "Ich verfüge über langjährige Erfahrung in der Entwicklung und Migration von Lösungen auf Basis von Microsoft 365 und Azure – insbesondere mit SharePoint Online, Power Apps und Power Automate. <br /><br /> Als IT-Berater liegt mein Fokus auf kundenorientierten Projekten. Im Laufe meiner beruflichen Laufbahn war ich an zahlreichen Vorhaben beteiligt. Durch meine ausgeprägten analytischen Fähigkeiten gelingt es mir, komplexe Problemstellungen zu durchdringen und passgenaue Lösungen zu entwickeln, die individuell auf die Anforderungen der Kunden zugeschnitten sind.",
     "location": {
       "address": "xxx xxx",
       "postalCode": "52399",
@@ -29,7 +29,7 @@
       "location": "Köln",
       "url": "https://novacapta.de",
       "position": "IT-Berater",
-      "summary": "Einsatz beim Kunden",
+      "summary": "Beratung und Entwicklung von SharePoint/M365 Anwendungen",
       "startDate": "2019-08-01",
       "highlights": [
         "Entwicklung von SPFx- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Legal Matter, Aufgabenverwaltung und Formulare",
