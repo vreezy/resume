@@ -44,23 +44,19 @@
       "location": "Köln",
       "url": "https://www.gfn.de/",
       "position": "Auszubildender Fachinformatiker Fachrichtung Anwendungsentwicklung IHK",
-      "summary": "Fortbildung zum Anwendungsentwickler",
       "startDate": "2017-06-01",
       "endDate": "2019-07-01",
       "highlights": []
     },
     {
       "name": "goalcampus GmbH",
-      "description": "Software Entwicklung mit PHP und dem Framework Laravel",
       "location": "Köln",
       "url": "https://www.goalcampus.de",
       "position": "Praktikant",
       "summary": "Orientierungspraktikum zur beruflichen Weiterentwicklung im Bereich Softwareentwicklung.",
       "startDate": "2017-04-01",
       "endDate": "2017-05-31",
-      "highlights": [
-        "Entwicklung Laravel"
-      ]
+      "highlights": [ ]
     },
     {
       "name": "Lucas-Nülle GmbH",
@@ -73,8 +69,6 @@
       "endDate": "2017-03-31",
       "highlights": [
         "Stellvertretender Abteilungsleiter von mehreren Personen",
-        "Einarbeitung von Personaldienstleistern",
-        "Arbeiten nach ISO 9001-2008",
         "Montage von elektronischen, mechanischen und pneumatischen Komponenten nach Unterlagen"
       ]
     },
@@ -95,7 +89,6 @@
     },
     {
       "name": "Altenheim St. Hildegard Jülich",
-      "description": "Altenheim für Pflegebedürftige Menschen",
       "location": "Jülich",
       "url": "https://caritas-dn.de",
       "position": "Zivieldienstleistender als Hausmeister",
@@ -106,18 +99,13 @@
     },
     {
       "name": "RWE Rheinbraun AG",
-      "description": "In einer Ausbildungsstätte für über 140 Auszubildende",
       "location": "Weißweiler",
       "url": "https://www.rwe.de",
       "position": "Auszubildender Energieelektroniker Betriebstechnik IHK",
-      "summary": "Erste Berufliche Ausbildung.",
+      "summary": "",
       "startDate": "1999-08-01",
       "endDate": "2003-02-28",
-      "highlights": [
-        "Einsatz im Tagebau Hambach",
-        "Einsatz im Tagebau Inden",
-        "Einsatz bei EWV"
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -126,9 +114,8 @@
       "position": "Vorstand",
       "url": "https://erfindergeist.org/",
       "startDate": "2022",
-      "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich zum Ziel gesetzt hat eine Offen Werkstatt in Jülich zu etablieren",
+      "summary": "Der Erfindergeist Jülich ist ein Gemeinnütziger Verein der sich zum Ziel gesetzt hat eine Offen Werkstatt in Jülich zu etablieren.",
       "highlights": [
-        "seit März 2023 Vorstand",
         "Wordpress Entwicklung"
       ]
     },
@@ -137,9 +124,9 @@
       "position": "Mitglied",
       "startDate": "2002",
       "endDate": "2012",
-      "summary": "Mit Freude zwei mal im Jahr LAN-Partys im Raum Basweiler veranstaltet. Der Verein hat sich nach der großen LAN-Party Äre leider aufgelöst",
+      "summary": "Mit Freude zwei mal im Jahr LAN-Partys im Raum Basweiler veranstaltet. Der Verein hat sich nach der großen LAN-Party Äre leider aufgelöst.",
       "highlights": [
-        "Erstellen der Webseite",
+        "Webseite Entwickelt",
         "Turnier-Organisator"
       ]
     }
