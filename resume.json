@@ -56,7 +56,7 @@
       "summary": "Orientierungspraktikum zur beruflichen Weiterentwicklung im Bereich Softwareentwicklung.",
       "startDate": "2017-04-01",
       "endDate": "2017-05-31",
-      "highlights": [ ]
+      "highlights": []
     },
     {
       "name": "Lucas-Nülle GmbH",
@@ -249,6 +249,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v0.1.13",
-    "lastModified": "2025-06-30T18:20:13.670Z"
+    "lastModified": "2025-06-30T18:31:56.068Z"
   }
 }
