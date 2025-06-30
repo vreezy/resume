@@ -2,14 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Lars Eschweiler",
-    "label": "Entwickler",
+    "label": "IT-Berater",
     "image": "",
-    "email": "lars.eschweiler@outlook.com",
-    "phone": "",
-    "url": "https://vreezy.de",
+    "email": "lars.xxx@xxx.com",
+    "phone": "000",
     "summary": "Ich verfüge über langjährige Erfahrung in der Entwicklung und Migration von Lösungen auf Basis von Microsoft 365 und Azure – insbesondere mit SharePoint Online, Power Apps und Power Automate. \n\n Als IT-Berater liegt mein Fokus auf kundenorientierten Projekten. Im Laufe meiner beruflichen Laufbahn war ich an zahlreichen Vorhaben beteiligt. Durch meine ausgeprägten analytischen Fähigkeiten gelingt es mir, komplexe Problemstellungen zu durchdringen und passgenaue Lösungen zu entwickeln, die individuell auf die Anforderungen der Kunden zugeschnitten sind.",
     "location": {
-      "address": "Buchenweg 16",
+      "address": "xxx xx",
       "postalCode": "52399",
       "city": "Merzenich",
       "countryCode": "DE",
@@ -18,13 +17,8 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "Lars Eschweiler",
+        "username": "https://www.linkedin.com/in/lars-eschweiler",
         "url": "https://www.linkedin.com/in/lars-eschweiler"
-      },
-      {
-        "network": "Github",
-        "username": "vreezy",
-        "url": "https://github.com/vreezy"
       }
     ]
   },
@@ -41,8 +35,7 @@
         "Entwicklung von SPFx- und Teams-Apps für SharePoint von 2013 bis Online, z. B. Kantinenverwaltung, Legal Matter, Aufgabenverwaltung und Formulare",
         "Entwicklung in Power Apps und Automate aber auch Nintex Forms und Workflows, z.B. Ticketsysteme, Audits, Genehmigungsprozesse",
         "Migration von Excel, SharePoint 2013/2016, Lotus Notes und PHP-Anwendungen nach SharePoint 2019 und Online",
-        "Aufbau von Azure DevOps Build- und Release-Pipelines, z.B. Automatisches Bauen und Deployen von SPFx Anwendungen",
-        "Azure Functions "
+        "Aufbau von Azure DevOps Build- und Release-Pipelines, z.B. Automatisches Bauen und Deployen von SPFx Anwendungen"
       ]
     },
     {
@@ -110,11 +103,7 @@
       "position": "Zivieldienstleistender als Hausmeister",
       "summary": "Hausmeister tätigkeiten, Garten, Elektro, Streichen und Essen auslieferung",
       "startDate": "2003-03-01",
-      "endDate": "2003-12-31",
-      "highlights": [
-        "Rasenmähertraktor fahren",
-        "Nikotin deckende Farbe entdeckt"
-      ]
+      "endDate": "2003-12-31"
     },
     {
       "name": "RWE Rheinbraun AG",

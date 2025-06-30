@@ -38,14 +38,14 @@ jobs:
         fetch-depth: 0
 
     - name: Install GitVersion
-      uses: gittools/actions/gitversion/setup@v0
+      uses: gittools/actions/gitversion/setup@v4
       with:
         ## versionSpec: '5.x'
         preferLatestVersion: true
 
     - name: Determine Version
       id:   gitversion # id to later be referenced
-      uses: gittools/actions/gitversion/execute@v0
+      uses: gittools/actions/gitversion/execute@v4
       with:
         useConfigFile: true
 
