@@ -207,14 +207,6 @@
   ],
   "skills": [
     {
-      "name": "Aktuelle Interessen",
-      "level": "Anfänger",
-      "keywords": [
-        "three.js",
-        "React Three Fiber"
-      ]
-    },
-    {
       "name": "Frontend",
       "keywords": [
         "React",
